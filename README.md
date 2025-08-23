@@ -27,12 +27,7 @@ Right now, I’m starting with **Arrays**, and I’ll keep updating as I progres
 DSA-Leetcode/
 │
 ├── Arrays/                 # Solutions for array-based problems
-│   ├── ContainsDuplicate.java
-│   ├── FindDuplicate.java
-│   ├── FindPivotIndex.java
-│   ├── RemoveDuplicates.java
-│   ├── TwoSum.java
-│   ├── TwoSumII.java
+│   
 │
 └── README.md               # Project overview
 ```
